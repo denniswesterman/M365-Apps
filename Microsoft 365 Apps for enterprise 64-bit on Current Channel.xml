@@ -1,5 +1,5 @@
 <Configuration ID="c37b106b-96ff-46a0-a9db-c20ffb7d1db4">
-  <Add SourcePath="C:\Temp\office" OfficeClientEdition="64" Channel="Current" MigrateArch="TRUE">
+  <Add SourcePath="C:\Temp\office" OfficeClientEdition="64" Channel="Current">
     <Product ID="O365ProPlusRetail">
       <Language ID="MatchOS" />
       <ExcludeApp ID="Groove" />
